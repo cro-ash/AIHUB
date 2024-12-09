@@ -12,9 +12,13 @@
         "paddle_models",
         "playwright",
         "rife-ncnn-vulkan-20221029-windows",
+        "scenedetect",
         "Font",
         "music",
         "video",
-        "project"
+        "voice",
+        "project",
+        "session.json",
+        "vpn_connect.exe"
     ]
 }
