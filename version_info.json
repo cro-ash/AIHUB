@@ -1,0 +1,20 @@
+{
+    "latest_version": "1.0.0",
+    "download_url": "https://example.com/download/your-software-v1.2.3.zip",
+    "release_notes": "修复了多个bug，优化了性能",
+    "mandatory": false,
+    "update_time": "2024-11-26T10:00:00Z",
+    "os_compatibility": ["windows"],
+    "protected_directories": [
+        "espeak-ng",
+        "ffmpeg",
+        "paddle_libs",
+        "paddle_models",
+        "playwright",
+        "rife-ncnn-vulkan-20221029-windows",
+        "Font",
+        "music",
+        "video",
+        "project"
+    ]
+}
